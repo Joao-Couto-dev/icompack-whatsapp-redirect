@@ -1,6 +1,5 @@
 const links = [
     'https://wa.me/message/VJUDVSACZLTJL1',
-    'https://wa.me/message/JD3SYS2W3QSXP1',
     'https://wa.me/message/Y4K6ANACDTWCI1',
     'https://wa.me/message/EGJH7MGBMIBCG1',
     'https://wa.me/message/UBK3WUD4WMQ4L1'
